@@ -1,0 +1,11 @@
+﻿opencv_python
+numpy
+scipy==0.18.1
+h5py
+tensorboardX
+# for tensorboard web server
+tensorflow
+fastapi
+uvicorn
+onnxruntime
+numpy
